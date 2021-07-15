@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohen Mondal</h1>
-<h3 align="center">I'm a passionate Full Stack Developer </h3>
+<h3 align="center">I'm a passionate App & Web Developer </h3>
 
 
 ## 🙋‍♂️ About Me
