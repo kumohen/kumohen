@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on React Native project**
 
-- 🌱 I’m currently learning ** Artificial Intelligence **
+- 🌱 I’m currently learning ** Blockchain **
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
